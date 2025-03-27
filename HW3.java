@@ -8,7 +8,7 @@ import java.sql.Statement;
  * <h1>HW3Test</h1>
  * <p>
  * A standalone testing class for verifying core functionalities of a
- * Java-based educational Q&A application. This class focuses on creating
+ * Java-based educational QandA application. This class focuses on creating
  * automated test cases for common actions such as adding, linking, editing,
  * deleting, and verifying questions and answers in the system.
  * </p>
@@ -32,7 +32,7 @@ import java.sql.Statement;
  * @author DIVY MUKESHBHAI BHANDERI
  * @version 1.3 — HW3 Final Version with Renamed Test Methods
  */
-public class HW3TestingAutomation {
+public class HW3 {
 
     private static QuestionManager questionManager = new QuestionManager(new DatabaseHelper());
     private static AnswerManager answerManager = new AnswerManager(new DatabaseHelper());
