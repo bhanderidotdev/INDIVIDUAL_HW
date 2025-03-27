@@ -14,3 +14,5 @@ Features Tested:
 These test cases are part of Homework 3, designed to ensure familiarity with automated testing, exception handling, and JavaDoc creation.
 
 Screencast link for HW3:
+https://asu.zoom.us/rec/share/1SyCcDZaC0YDV3AlQGX-y3zQcKu0TBFVvDdijelzjKNrKUpWv7CFP-MuzURtLdHs.BGp9GlHcA6fnrZco  
+Passcode: ^7u$aYkG
