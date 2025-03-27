@@ -5,7 +5,7 @@ import java.sql.Connection;
 import java.sql.Statement;
 
 /**
- * <h1>HW3Test</h1>
+ * <h1>HW3</h1>
  * <p>
  * A standalone testing class for verifying core functionalities of a
  * Java-based educational QandA application. This class focuses on creating
